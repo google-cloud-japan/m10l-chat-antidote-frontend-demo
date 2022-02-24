@@ -13,9 +13,9 @@ A few steps to set up this demo.
 
 demo のセットアップ方法について`
 ### Backend Service
-This is the frontend application for the demo. You can use [this repo](https://github.com/Wonha/multilingual-chat.git) for the backend service.
+This is the frontend application for the demo. You can use [this repo](https://github.com/google-cloud-japan/m10l-chat-antidote-backend-demo) for the backend service.
 
-このリポジトリはフロントエンドアプリケーションとなります。バックエンドにはこちらのリポジトリにあるアプリケーションをご利用いただけます。
+このリポジトリはフロントエンドアプリケーションとなります。バックエンドには[こちらのリポジトリ](https://github.com/google-cloud-japan/m10l-chat-antidote-backend-demo)にあるアプリケーションをご利用いただけます。
 
 ### Firebase Authentication
 You need a firebase project for the user authentication.
